@@ -8,14 +8,13 @@
 при успешном вводе задачи, она сохраняется в БД и будет выведено сообщение: "Задача успешно запланирована!".
 сохраненное напоминание будет выведено согласно дате и времени, которое ввел пользователь.
 ### Использован следующий стек технологий:
-<p>Java11 </p>
-<p>SpringBoot</p>
-<p>Hibernate</p>
-<p>PostgreSQL</p>
-<p>Lombok</p>
-<p>JUnit</p>
-<p>Mockito</p>
-<p>Telegram-bot API (pengrand)</p>
-<p>Maven</p>
-<p>Docker</p>
-<p>Liquibase</p>
+Java11<br>
+SpringBoot <br>
+Hibernate <br>
+PostgreSQL <br>
+Lombok <br>
+JUnit <br>
+Mockito <br>
+Telegram-bot API (pengrand) <br>
+Maven <br>
+Liquibase 
